@@ -2,14 +2,18 @@
 
 Rewrite Progress:
 
+
 __________________________________________________________
 
 
+
 Done: 14.28%
+
 Number display
 
 Incrementor 1
 ___________________________________________________________
+
 Incrementor 2
 
 Incrementor 3

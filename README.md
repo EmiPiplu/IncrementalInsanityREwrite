@@ -38,4 +38,7 @@ BP formula upgrade
 
 upgrade that allows you to get multiple points per prestige
 
+_______________________________________________________________
+
+
 Will be replaced with update log once whole game has been rewritten

@@ -1,13 +1,13 @@
 # IncrementalInsanityREwrite
 
-Rewrite Progress:
+Rewrite Progress: 14.28%
 
 
 __________________________________________________________
 
 
 
-Done: 14.28%
+Done: 
 
 Number display
 
@@ -37,3 +37,5 @@ BP boosts
 BP formula upgrade
 
 upgrade that allows you to get multiple points per prestige
+
+Will be replaced with update log once whole game has been rewritten

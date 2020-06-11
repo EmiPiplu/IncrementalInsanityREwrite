@@ -12,7 +12,6 @@ Done:
 Number display
 
 Incrementor 1
-___________________________________________________________
 
 Incrementor 2
 
@@ -27,7 +26,7 @@ Incrementor 6
 Incrementor 7
 
 Incrementor 8
-
+___________________________________________________________
 Booster
 
 Prestige
